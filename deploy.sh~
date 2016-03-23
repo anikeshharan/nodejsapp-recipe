@@ -3,4 +3,4 @@ echo "starting deployment ....."
 
 docker-compose up -d
 
-echo "deployment completed....."
+echo "deployment completed...."
